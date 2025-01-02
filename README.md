@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/aval_stephen" target="blank"><img src="https://img.shields.io/twitter/follow/aval_stephen?logo=twitter&style=for-the-badge" alt="aval_stephen" /></a> </p>
 
-- 🔭 I’m currently working on **service based platform**
+- 🔭 I’m currently working on **an LMS platform**
 
 - 🌱 I’m currently learning **Reactjs, Nextjs, Nodejs, Mongodb**
 
